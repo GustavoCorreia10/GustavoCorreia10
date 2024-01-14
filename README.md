@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate: on Google or Microsoft
 - 🤔 I’m looking for help with: firt job
 - 💬 Ask me about: coding and tecnologie
-- 📫 How to reach me: linkedim: www.linkedin.com/in/gustavo-correia-572g48s
+- 📫 How to reach me: www.linkedin.com/in/gustavo-correia-572g48s
 - 😄 Pronouns: him his
 - ⚡ Fun fact: I like to play video game and play soccer
 
