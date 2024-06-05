@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on: Front-End
+- 🔭 I’m currently working on: Back-End
 - 🌱 I’m currently learning: Python, HTML5, CSS3
 - 👯 I’m looking to collaborate: Google or Microsoft
 - 🤔 I’m looking for help with: firt job
