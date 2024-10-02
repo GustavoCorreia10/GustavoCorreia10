@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on: Back-End
-- 🌱 I’m currently learning: Python, HTML5, CSS3
+- 🌱 I’m currently learning: Kotlin, MongoDB
 - 👯 I’m looking to collaborate: Google or Microsoft
 - 🤔 I’m looking for help with: firt job
 - 💬 Ask me about: coding and tecnologie
